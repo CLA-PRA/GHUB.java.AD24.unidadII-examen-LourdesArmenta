@@ -1,0 +1,9 @@
+./miPrincipal/Principal.java
+./miPrincipal/Operador.java
+./miPrincipal/Punto.java
+./miPrincipal/CreaPunto.java
+./miPrincipal/TestOperador.java
+./miPrincipal/Temperatura.java
+./miPrincipal/FechaUtil.java
+./miPrincipal/Hora.java
+./miTest/AppTest.java
